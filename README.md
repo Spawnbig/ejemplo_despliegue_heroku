@@ -1,2 +1,5 @@
-# ejemplo_despliegue_heroku
-Repositorio utilizado como ejemplo para un despliegue a través de la plataforma de heroku.
+# Ejemplo de Despliegue Heroku
+
+Repositorio con una aplicación simple de Spring Boot, que se utilizará como ejemplo
+para hacer un despliegue a través de la plataforma de Heroku.
+
